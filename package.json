@@ -14,7 +14,7 @@
   "jwt-simple": "0.5.1",
   "request": "2.88.0",
   "xml-crypto": "0.10.1",
-  "xmldom": "0.1.19"
+  "xmldom": "0.6.0"
  },
  "devDependencies": {
   "mocha": "5.2.0",
